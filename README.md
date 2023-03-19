@@ -9,9 +9,13 @@ The primary objective of this assignment is to develop a simple Hospital Channel
 The Hospital Channeling System will consist of three microservices and a frontend web-based user interface:
 
 1. Patient Service: Manages patient data and performs CRUD operations.
+   - Technologies: Spring Boot, Spring Data JPA, MySQL Driver
 2. Doctor Service: Manages doctor data and performs CRUD operations.
+   - Technologies: Spring Boot, Spring Data JPA, MySQL Driver
 3. Appointment Service: Manages appointment data and performs CRUD operations.
+   - Technologies: Spring Boot, Spring Data JPA, MySQL Driver
 4. Frontend UI: A simple web-based user interface to interact with the microservices.
+   - Technologies: HTML, CSS, and Vanilla JavaScript
 
 ## Technologies
 
